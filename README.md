@@ -8,7 +8,7 @@ El modelo utiliza como variables de entrada los precios de apertura, máximo, m�
 
 ## Archivos incluidos
 
-- `main.py` o `Avance_Benji.py`: Script principal con todo el código del modelo y visualización.
+- `main.py`: Script principal con todo el código del modelo y visualización.
 - `financial_regression.csv`: Archivo de datos históricos de precios y volúmenes de metales preciosos.
 - `requirements.txt`: Lista de dependencias necesarias para ejecutar el proyecto.
 
