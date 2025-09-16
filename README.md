@@ -1,6 +1,6 @@
 # Predicción del Precio de Cierre del Oro con Machine Learning
 
-Este proyecto implementa un modelo de regresión lineal múltiple desde cero, utilizando Python, para predecir el precio de cierre del oro a partir de datos históricos de precios y volumen. El objetivo es mostrar el flujo completo de un proyecto de machine learning: desde la preparación de los datos hasta la visualización y análisis de resultados.
+Este proyecto implementa dos modelos, uno de regresión lineal múltiple desde cero,por otro lado, el segundo modelo utiliza Baggin Regressor. Utilizando Python, para predecir el precio de cierre del oro a partir de datos históricos de precios y volumen. El objetivo es mostrar el flujo completo de un proyecto de machine learning: desde la preparación de los datos hasta la visualización y análisis de resultados.
 
 ## Descripción del proyecto
 
