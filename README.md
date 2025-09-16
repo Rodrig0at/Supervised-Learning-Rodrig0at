@@ -30,9 +30,10 @@ Asegúrate de que el archivo `financial_regression.csv` esté en la misma carpet
 
 ```
 python main.py
+python main_frame.py
 ```
 
-El script entrenará el modelo y mostrará varias gráficas:
+Los scripts entrenarán un modelo y mostrarán varias gráficas:
 
 - Predicciones vs valores reales
 - Curva de error (MSE) durante el entrenamiento
